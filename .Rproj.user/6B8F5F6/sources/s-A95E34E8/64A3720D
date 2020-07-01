@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588874028582.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "936971253",
+    "id" : "64A3720D",
+    "lastKnownWriteTime" : 1588920927,
+    "last_content_update" : 1588920927223,
+    "path" : "D:/codebase/client/Neural_network/Neural_Network.R",
+    "project_path" : "Neural_Network.R",
+    "properties" : {
+        "cursorPosition" : "100,18",
+        "scrollLine" : "85",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
